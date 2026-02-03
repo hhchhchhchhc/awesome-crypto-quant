@@ -650,10 +650,26 @@ Made with love for the crypto quant community
 
 **觉得有用请点Star支持！欢迎提交PR贡献资源！**
 
+朋友们现在的Tardis API是solo 1200每月的档位，年付年付！（14400美元折合人民币10万多人民币）
+现货、期货、期权的数据都有啦！需要数据的联系微信a13479004101，代下载每一T收费249，单次最低99。
+
+致富证券可能是一张内地身份证5分钟线上开户美港股的最后一台车了。
+开户奖励很丰厚，总价值高达HK$8,800，包括现金券、返现、股票和转仓回赠。推荐好友还能额外拿钱，上不封顶。具体奖励有：1. 开户直接拿HK$200现金券+交易券；2. 入金最高返HK$1,300，还送NVIDIA股票；3. 转仓最高回赠HK$7,000；4. 推荐好友每成功一个得HK$300。
+
+注意需要通过我的邀请码XC6774（二维码：https://image2url.com/r2/default/images/1770021823559-f8b6c7cb-d63d-4b01-9ead-48455da15c08.png或者https://mp.weixin.qq.com/s/NnIA1hszlLCyQ6BVxTmMAw）注册才有数千额外奖励QAQ。
+
+致富支持大陆用户无港卡开户 ，可尝试用工商银行等快速入金，需开户7天内入金1万港币等值的前才有上述奖励。
+
+致富chief.apk
+链接: https://pan.baidu.com/s/1gpI4JSYY6MwZqP8Ywor9Tw?pwd=hmec 提取码: hmec
+
 ![32ed3917f1f7f20f3e561e3b386da68e](https://github.com/user-attachments/assets/e6ad42c2-3bd1-4426-a4ac-53458cf2ce84)
 ![f2ded2c901a4e731b32d4addcce25f3c](https://github.com/user-attachments/assets/10d5fefd-a939-435a-b252-ec29f2bbbbea)
+![微信图片_20260203141110_215_152](https://github.com/user-attachments/assets/bced6473-80cd-4569-9d20-44c46ffde382)
+![微信图片_20260203141111_216_152](https://github.com/user-attachments/assets/320f2928-8201-4977-b81d-9dd47f94c48f)
 
 
 
 </div>
+
 
