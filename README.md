@@ -607,6 +607,8 @@ Made with love for the crypto quant community
 | 跨DEX套利 | AMM价差 | ⭐⭐⭐⭐ |
 | 资金费率套利 | 多现货空永续 | ⭐ |
 
+![32ed3917f1f7f20f3e561e3b386da68e](https://github.com/user-attachments/assets/e6ad42c2-3bd1-4426-a4ac-53458cf2ce84)
+
 ---
 
 ## 书籍推荐
@@ -648,4 +650,10 @@ Made with love for the crypto quant community
 
 **觉得有用请点Star支持！欢迎提交PR贡献资源！**
 
+![32ed3917f1f7f20f3e561e3b386da68e](https://github.com/user-attachments/assets/e6ad42c2-3bd1-4426-a4ac-53458cf2ce84)
+![f2ded2c901a4e731b32d4addcce25f3c](https://github.com/user-attachments/assets/10d5fefd-a939-435a-b252-ec29f2bbbbea)
+
+
+
 </div>
+
